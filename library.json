@@ -1,0 +1,12 @@
+{
+    "name": "DUEOscillator",
+    "keywords": "oscillator",
+    "description": "Sine oscillator implemented for Arduino DUE",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/fabiossilva21/DUEOscillator.git"
+    },
+    "frameworks": "arduino",
+    "platforms": "atmelsam"
+}

@@ -1,0 +1,7 @@
+Oscillator	KEYWORD2
+setSamplingFrequency	KEYWORD2
+getSamplingFrequency	KEYWORD2
+getNext	KEYWORD2
+setFrequency	KEYWORD2
+getFrequency	KEYWORD2
+
